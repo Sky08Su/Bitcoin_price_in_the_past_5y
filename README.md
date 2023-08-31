@@ -10,7 +10,7 @@ Analyse data:
 1.Price change (Open/High/Low/Close)
 
 2. Average Close price change overtime (by year, quarter, month and day)
-3. 
-4. Candle stick graph in the past 3 months (Jun - Aug 2023)
-5. 
-6. Close price % change and examine the biggest increase and decrease
+   
+3. Candle stick graph in the past 3 months (Jun - Aug 2023)
+   
+4. Close price % change and examine the biggest increase and decrease
